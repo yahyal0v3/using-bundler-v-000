@@ -1,3 +1,3 @@
 require "bundler/setup"
 
-require (:default, :development)  
+require (:default, :development)
