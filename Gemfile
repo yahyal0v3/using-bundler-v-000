@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "sinatra", ">= 1.4.4"
+gem "sinatra", "v1.4.4"
 
 gem "hashie"
 
